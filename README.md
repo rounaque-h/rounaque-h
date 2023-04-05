@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Rouaque Afroz Haider</h1>
 <h3 align="center">I am a passionate and curious programmer with a strong understanding of computer science concepts such as Operating Systems, Computer Networks, and Databases. My focus is on Android app development, using Kotlin, React Native, Java, and C. I am experienced in working with data structures and algorithms. I have demonstrated my dedication and commitment to computer science through my academic achievements, including qualifying for GATE in my pre-final year and achieving a rank of 6135 in my final year. I am driven by the philosophy that learning must be sought with ardor and diligence, and I strive to keep growing and evolving in the rapidly changing field of computer science. I am always eager to tackle new challenges to continue developing professionally.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rounaque-h" alt="rounaque-h" /></a> </p>
-
 - 🌱 I’m currently learning **Android development, Kotlin, React Native, SQLite, Firebase, etc**
 
 - 📫 How to reach me **rounaque007@gmail.com**

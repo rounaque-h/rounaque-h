@@ -16,10 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rounaque-h&show_icons=true&locale=en" alt="rounaque-h" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rounaque-h&" alt="rounaque-h" /></p>
-
-
-![Watch my contribution graph being eaten by a Snake!](https://github.com/Umesh-01/Umesh-01/blob/main/Resources/Snake.svg)
-
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
